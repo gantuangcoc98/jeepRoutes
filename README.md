@@ -1,3 +1,3 @@
 Project Structure:
-Frontend - React
-Backend - Springboot Framework + MySQL Database
+* Frontend - React
+* Backend - Springboot Framework + MySQL Database
