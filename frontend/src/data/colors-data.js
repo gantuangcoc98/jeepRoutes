@@ -1,0 +1,20 @@
+export const colors = {
+    'Alpha': '#214559',
+    'Bravo': '#00626f',
+    'Charlie': '#00022e',
+    'Delta': '#2a293e',
+    'Echo': '#29304e',
+    'Foxtrot': '#34414e',
+    'Golf': '#391285',
+    'Hotel': '#184343',
+    'India': '#000133',
+    'Juliet': '#373e02',
+    'Kilo': '#547053',
+    'Lima': '#80884e',
+    'Mike': '#696006',
+    'November': '#044a05',
+    'Oscar': '#35654d',
+    'Papa': '#3e6257',
+    'Quebec': '#062e03',
+    'Romeo': '#b4262a'
+}
